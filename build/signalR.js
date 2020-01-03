@@ -415,7 +415,7 @@ var jQueryShim = require('./jQueryShim');
 
         state: _signalR.connectionState.disconnected,
 
-        clientProtocol: "1.5",
+        clientProtocol: "2.0",
 
         reconnectDelay: 2000,
 
